@@ -1,8 +1,8 @@
 class Popso < Formula
   desc "Open-source LP, MILP, QP, MIQP, QCQP and SOCP solver"
   homepage "https://github.com/gozwei/popso"
-  url "https://github.com/gozwei/popso/archive/refs/tags/v0.8.1.tar.gz"
-  sha256 "011cf5b2de6650ddd4df1dc48d0139b830623922afe36dc2d4ffe761c2e2e865"
+  url "https://github.com/gozwei/popso/archive/refs/tags/v0.8.2.tar.gz"
+  sha256 "4ea354e8c17d2d21da439e1dc392e76d30e26a425cc7e7a6bda95442a1b3b5c8"
   license "Apache-2.0"
   head "https://github.com/gozwei/popso.git", branch: "main"
 
